@@ -1,0 +1,70 @@
+{
+  "niveles": [
+    {
+      "nombre": "Ahorro básico",
+      "descripcion": "Aprende los primeros pasos para comenzar a ahorrar.",
+      "contenido": "El ahorro consiste en reservar una parte de tus ingresos en lugar de gastarlos inmediatamente. Ahorrar te permite cumplir metas financieras, estar preparado para emergencias y tener tranquilidad económica. Una buena práctica es apartar un porcentaje fijo de tus ingresos regularmente.",
+      "preguntas": [
+        {
+          "texto": "¿Qué es el ahorro?",
+          "opciones": ["Gastar todo lo que ganas", "Guardar parte de tus ingresos", "Pedir dinero prestado"],
+          "respuesta": 1
+        },
+        {
+          "texto": "¿Por qué es importante ahorrar?",
+          "opciones": ["Porque te permite cumplir metas y emergencias", "Porque te hace gastar más", "Porque te da menos dinero"],
+          "respuesta": 0
+        },
+        {
+          "texto": "¿Cuál es una buena estrategia de ahorro?",
+          "opciones": ["Ahorrar al menos el 10% de tus ingresos", "Gastar primero y ahorrar lo que sobra", "No planear nada"],
+          "respuesta": 0
+        }
+      ]
+    },
+    {
+      "nombre": "Crédito y deuda",
+      "descripcion": "Aprende cómo funcionan los préstamos y tarjetas.",
+      "contenido": "El crédito te permite usar dinero prestado que deberás devolver con intereses. Las tarjetas de crédito son un ejemplo: facilitan compras inmediatas, pero es importante pagarlas a tiempo para evitar deudas y mantener un buen historial crediticio.",
+      "preguntas": [
+        {
+          "texto": "¿Qué representa una tarjeta de crédito?",
+          "opciones": ["Dinero propio disponible", "Un préstamo que luego debes pagar", "Un tipo de cuenta de ahorro"],
+          "respuesta": 1
+        },
+        {
+          "texto": "¿Qué sucede si no pagas tu deuda a tiempo?",
+          "opciones": ["Nada pasa", "Te cobran intereses y puede afectar tu historial", "Te dan más crédito"],
+          "respuesta": 1
+        },
+        {
+          "texto": "¿Cuál es la mejor práctica al usar crédito?",
+          "opciones": ["Pagar solo el mínimo", "Usar crédito responsablemente y pagar a tiempo", "Evitar el crédito siempre"],
+          "respuesta": 1
+        }
+      ]
+    },
+    {
+      "nombre": "Inversiones básicas",
+      "descripcion": "Introducción a invertir dinero y entender riesgos.",
+      "contenido": "Invertir significa poner tu dinero a trabajar para generar ganancias. Todas las inversiones tienen un riesgo: la posibilidad de perder dinero. Es importante conocer el riesgo y diversificar, empezando con inversiones de bajo riesgo como bonos o fondos de inversión.",
+      "preguntas": [
+        {
+          "texto": "¿Qué es una inversión?",
+          "opciones": ["Guardar dinero bajo el colchón", "Poner dinero para obtener ganancias futuras", "Gastar en cosas innecesarias"],
+          "respuesta": 1
+        },
+        {
+          "texto": "¿Qué es un riesgo en inversión?",
+          "opciones": ["La posibilidad de ganar dinero", "La posibilidad de perder dinero", "No tiene importancia"],
+          "respuesta": 1
+        },
+        {
+          "texto": "Ejemplo de inversión de bajo riesgo",
+          "opciones": ["Bonos del gobierno", "Jugar a la lotería", "Comprar ropa cara"],
+          "respuesta": 0
+        }
+      ]
+    }
+  ]
+}
